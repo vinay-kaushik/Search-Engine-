@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v4.10.1, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v4.10.1, mobirise.com">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/large-mie-uic-logo.png" type="image/x-icon">
+  <meta name="description" content="">
+  
+  <title>Home</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
+  <link rel="stylesheet" href="assets/tether/tether.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/animatecss/animate.min.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+</head>
+<body>
+
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132352750-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-132352750-1');
+</script>
+<!-- /Google Analytics -->
+
+
+  <section class="menu cid-reA6b0E8zF" once="menu" id="menu2-8d">
+
+    
+
+    <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </button>
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="https://mie.uic.edu/">
+                        <img src="assets/images/large-mie-uic-logo.png" alt="Mobirise" title="" style="height: 8rem;">
+                    </a>
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-1" href="https://saggere.lab.uic.edu/index.html">Saggere Lab</a></span>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item">
+                    <a class="nav-link link text-info display-4" href="index.html"><span class="mbri-home mbr-iconfont mbr-iconfont-btn"></span>
+                        Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link link text-info display-4" href="research.html">
+                        Research</a>
+                </li><li class="nav-item"><a class="nav-link link text-info display-4" href="publications.html">
+                        Publications</a></li><li class="nav-item"><a class="nav-link link text-info display-4" href="people.html">
+                        People</a></li><li class="nav-item"><a class="nav-link link text-info display-4" href="contact.html">
+                        Contact</a></li></ul>
+            
+        </div>
+    </nav>
+</section>
+
+<section class="engine"><a href="https://mobirise.info/p">site templates free download</a></section><section class="header3 cid-reliazlxeH mbr-fullscreen" id="header3-5z">
+
+    
+
+    
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="mbr-figure" style="width: 85%;">
+                <img src="assets/images/home-intro-slides-4.gif" alt="Mobirise" title="">
+            </div>
+
+            <div class="media-content">
+                
+                <h3 class="mbr-section-subtitle align-left mbr-white mbr-light pb-3 mbr-fonts-style display-2">
+                    Welcome!</h3>
+                <div class="mbr-section-text mbr-white pb-3 ">
+                    <p class="mbr-text mbr-fonts-style display-5">
+                        We are a research group established in 2001 in the Mechanical and Industrial Engineering Department at the University of Illinois at Chicago. We are interested in both the fundamental and applied aspects of microsystems (MEMS) and nanoengineering. Our research, largely sponsored by NSF and NIH, is focused on developing innovative biomimetic and bioinspired microsystems for unmet needs in biomedical, micro-/nanomanufacturing and other areas. Our research approach is interdisciplinary, including the fileds of mechanical engieering, biomedical engineering, MEMS technology and neuroscience.
+                    </p>
+                </div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="research.html">LEARN MORE</a></div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="cid-rdmG7DQM4G mbr-reveal" id="footer1-l">
+
+    
+
+    <div class="mbr-overlay" style="background-color: rgb(60, 60, 60); opacity: 0.7;"></div>
+
+    <div class="container">
+        <div class="media-container-row content text-white">
+            <div class="col-12 col-md-3">
+                <div class="media-wrap">
+                    <a href="http://saggere.lab.uic.edu">
+                        <img src="assets/images/large-mie-uic-logo-white-2-192x269.png" alt="Mobirise" title="">
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Address
+                </h5>
+                <p class="mbr-text">2039 ERF, MC 251<br>842 W Taylor Street&nbsp;<br>Chicago, IL 60607<br>USA</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Contact</h5>
+                <p class="mbr-text">Prof. Laxman Saggere<br>Email: saggere [<em>at</em>] uic [<em>dot</em>] edu&nbsp;<br>Phone: +1 (312) 413 1031
+                    <br>Fax: +1 (312) 413 0447</p>
+            </div>
+            <div class="col-12 col-md-3 mbr-fonts-style display-7">
+                <h5 class="pb-3">
+                    Links
+                </h5>
+                <p class="mbr-text"><a href="https://mie.uic.edu" target="_blank" class="text-danger">Department of Mechanical and Industrial Engineering</a><br><a href="https://engineering.uic.edu/" target="_blank" class="text-danger">College of Egneineering</a><br><a href="http://www.uic.edu" target="_blank" class="text-danger">University of Illinois at Chicago</a></p>
+            </div>
+        </div>
+        <div class="footer-lower">
+            <div class="media-container-row">
+                <div class="col-sm-12">
+                    <hr>
+                </div>
+            </div>
+            <div class="media-container-row mbr-white">
+                <div class="col-sm-6 copyright">
+                    <p class="mbr-text mbr-fonts-style display-7">
+                        © Copyright 2019 Saggere Lab - All Rights Reserved
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/popper/popper.min.js"></script>
+  <script src="assets/tether/tether.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smoothscroll/smooth-scroll.js"></script>
+  <script src="assets/dropdown/js/script.min.js"></script>
+  <script src="assets/touchswipe/jquery.touch-swipe.min.js"></script>
+  <script src="assets/viewportchecker/jquery.viewportchecker.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-core.js"></script>
+  <script src="assets/cookies-alert-plugin/cookies-alert-script.js"></script>
+  <script src="assets/theme/js/script.js"></script>
+  
+  
+ <div id="scrollToTop" class="scrollToTop mbr-arrow-up"><a style="text-align: center;"><i class="mbr-arrow-up-icon mbr-arrow-up-icon-cm cm-icon cm-icon-smallarrow-up"></i></a></div>
+    <input name="animation" type="hidden">
+  <input name="cookieData" type="hidden" data-cookie-text="We use cookies on this site to enhance your experience. By continiung to browse you agree to the <a href='https://www.vpaa.uillinois.edu/resources/web_privacy' target='_blank'>University of Ilinois Web Privacy Policy</a>.">
+  </body>
+</html>

@@ -1,0 +1,526 @@
+<!DOCTYPE HTML>
+<!--
+	Horizons by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Big Data and Social Computing Lab</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<link rel="stylesheet" href="css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+	</head>
+	<body class="no-sidebar">
+
+		<!-- Header -->
+			<div id="header">
+				<div class="container">
+						
+					<!-- Logo -->
+						<h1>Big Data and Social Computing Lab</h1>
+					
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html">Home</a></li>
+								<li><a href="projects.html">Projects</a></li>
+								<li><a href="publications.html">Publications</a></li>
+								<li><a href="people.html">People</a></li>
+								<!-- <li><a href="resources.html">Code & Data</a></li> -->
+							</ul>
+						</nav>
+
+				</div>
+			</div>
+
+		<!-- Featured -->
+			<div class="wrapper style1">
+				<section class="container">
+					</br>
+					<h2>Faculty</h2>
+					<div class="thumbnails">
+						<div class="box">
+							<a href="https://cs.uic.edu/profiles/philip-yu/" class="image fit"><img src="images/people/psyu.jpg" alt="" /></a>
+							<div class="inner"><h3>Philip S. Yu</h3></div>
+						</div>
+					</div>
+					<h2>Ph.D. Student</h2>
+					<div class="thumbnails">
+						
+						<div class="box">
+							<a  class="image fit"><img src="images/people/cyw.jpg" alt="" /></a>
+							<div class="inner"><h3>Yuwei Cao</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/shaika-chowdhury-418095111" class="image fit"><img src="images/people/cs.jpg" alt="" /></a>
+							<div class="inner"><h3>Shaika Chowdhury</h3></div>
+						</div>
+						
+                        <div class="box">
+							<a href="http://www.linkedin.com/in/zhongfen-deng-845617159/" class="image fit"><img src="images/people/zfdeng.jpg" alt="" /></a>
+							<div class="inner"><h3>Zhongfen Deng</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~bdong" class="image fit"><img src="images/people/dbw.jpg" alt="" /></a>
+							<div class="inner"><h3>Bowen Dong</h3></div>
+						</div>
+						<div class="box">
+							<a href="http://ytongdou.com" class="image fit"><img src="images/people/dyt.jpg" alt="" /></a>
+							<div class="inner"><h3>Yingtong Dou</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/ziwei-fan-773513ba/" class="image fit"><img src="images/people/zwf.jpg" alt="" /></a>
+							<div class="inner"><h3>Ziwei Fan</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/stevehuanghe/en" class="image fit"><img src="images/people/hh.jpg" alt="" /></a>
+							<div class="inner"><h3>He Huang</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://shawnlxh.github.io" class="image fit"><img src="images/people/lxh.jpg" alt="" /></a>
+							<div class="inner"><h3>Xiaohan Li</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/ye-liu-a51869106" class="image fit"><img src="images/people/ly.jpg" alt="" /></a>
+							<div class="inner"><h3>Ye Liu</h3></div>
+						</div>
+						<div class="box">
+							<a class="image fit"><img src="images/people/lz.jpg" alt="" /></a>
+							<div class="inner"><h3>Zheng Liu</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://sites.google.com/view/zhiwei-jim" class="image fit"><img src="images/people/lzw.jpg" alt="" /></a>
+							<div class="inner"><h3>Zhiwei Liu</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/nooshin-mojab-3675713b" class="image fit"><img src="images/people/mn.jpg" alt="" /></a>
+							<div class="inner"><h3>Nooshin Mojab</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://mehnajafi.github.io" class="image fit"><img src="images/people/nm.jpg" alt="" /></a>
+							<div class="inner"><h3>Mehrnaz Najafi</h3></div>
+						</div>
+
+						<div class="box">
+							<a  class="image fit"><img src="images/unknown.jpg" alt="" /></a>
+							<div class="inner"><h3>Hoang Nguyen</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~lsun" class="image fit"><img src="images/people/slc.jpg" alt="" /></a>
+							<div class="inner"><h3>Lichao Sun</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.linkedin.com/in/shen-wang-97309138" class="image fit"><img src="images/people/ws.jpg" alt="" /></a>
+							<div class="inner"><h3>Shen Wang</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://congyingxia.github.io/" class="image fit"><img src="images/people/xcy.jpg" alt="" /></a>
+							<div class="inner"><h3>Congying Xia</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~hxu" class="image fit"><img src="images/unknown.jpg" alt="" /></a>
+							<div class="inner"><h3>Hu Xu</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://jianguoz.github.io/" class="image fit"><img src="images/people/zjg.jpg" alt="" /></a>
+							<div class="inner"><h3>Jianguo Zhang</h3></div>
+						</div>
+						
+						<div class="box">
+							<a  class="image fit"><img src="images/unknown.jpg" alt="" /></a>
+							<div class="inner"><h3>Tao Zhang</h3></div>
+						</div>
+						<div class="box">
+							<a  href="https://wentinghome.github.io" class="image fit"><img src="images/people/wtzhao.jpg" alt="" /></a>
+							<div class="inner"><h3>Wenting Zhao</h3></div>
+						</div>
+						
+						
+					</div>
+					<h2>Visiting Scholar</h2>
+					<div class="thumbnails">
+						
+
+						<!-- <div class="box">
+							<a class="image fit"><img src="images/people/gyl.jpg" alt="" /></a>
+							<div class="inner"><h3>Yali Gao</br>(Ph.D. student)</h3></div>
+						</div> -->
+
+						<!-- <div class="box">
+							<a class="image fit"><img src="images/people/gjb.jpg" alt="" /></a>
+							<div class="inner"><h3>Jibing Gong</br>(professor of Yanshan University)</h3></div>
+						</div>
+
+						<div class="box">
+							<a class="image fit"><img src="images/people/hjy.jpg" alt="" /></a>
+							<div class="inner"><h3>Jiayu Han</br>(Ph.D. student)</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="http://web.xidian.edu.cn/zyjiang/" class="image fit"><img src="images/people/jzy.jpg" alt="" /></a>
+							<div class="inner"><h3>Zhongyuan Jiang</br>(professor of Xidian University)</h3></div>
+						</div> -->
+
+						<!-- <div class="box">
+							<a href="https://www.linkedin.com/in/%E6%9C%9D%E5%8D%93-%E6%9D%8E-212b4ba9" class="image fit"><img src="images/people/lcz.jpg" alt="" /></a>
+							<div class="inner"><h3>Chaozhuo Li</br>(Ph.D. student)</h3></div>
+						</div> -->
+
+						<div class="box">
+							<a class="image fit"><img src="images/people/lt.jpg" alt="" /></a>
+							<div class="inner"><h3>Tie Li</br>(Post Doc.)</h3></div>
+						</div>
+
+						<div class="box">
+							<a class="image fit"><img src="images/people/bywang.jpg" alt="" /></a>
+							<div class="inner"><h3>Boyan Wang</br>(Ph.D. student)</h3></div>
+						</div>
+
+						<!-- <div class="box">
+							<a href="http://computer.upc.edu.cn/2017/0313/c6287a103924/page.htm" class="image fit"><img src="images/people/zjs.jpg" alt="" /></a>
+							<div class="inner"><h3>Junsan Zhang</br>(Associate Professor)</h3></div>
+						</div> -->
+
+						<!-- <div class="box">
+							<a href="http://cs.njust.edu.cn/24/ae/c1733a9390/page.htm" class="image fit"><img src="images/people/yh.jpg" alt="" /></a>
+							<div class="inner"><h3>Hui Yan</br>(professor)</h3></div>
+						</div> -->
+							
+						
+					</div>
+					<h2>Alumni</h2>
+					<div class="thumbnails">
+						
+
+						<div class="box">
+							<a href="https://sites.google.com/site/chenweizhangswebpage" class="image fit"><img src="images/people/zcw.jpg" alt="" /></a>
+							<div class="inner"><h3>Chenwei Zhang</br>(Ph.D., 2019, Applied Scientist @ Amazon)</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="https://sites.google.com/site/vahiidnoroozi" class="image fit"><img src="images/people/nv.jpg" alt="" /></a>
+							<div class="inner"><h3>Vahid Noroozi</br>(Ph.D., 2019, Nvidia)</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="https://lzheng21.github.io" class="image fit"><img src="images/people/zl.jpg" alt="" /></a>
+							<div class="inner"><h3>Lei Zheng </br>(Ph.D., 2019, Research Scientist @ Pinterest)</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="https://www.linkedin.com/in/guixiang-ma-202aa080" class="image fit"><img src="images/people/mgx.jpg" alt="" /></a>
+							<div class="inner"><h3>Guixiang Ma</br>(Ph.D., 2019, Research Scientist @ Intel)</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~bcao1" class="image fit"><img src="images/people/cbk.jpg" alt="" /></a>
+							<div class="inner"><h3>Bokai Cao</br>(Ph.D., 2018, Research Scientist @ Facebook)</h3></div>
+						</div>
+						<div class="box">
+							<a href="http://www2.cs.uic.edu/~clu" class="image fit"><img src="images/people/lct.jpg" alt="" /></a>
+							<div class="inner"><h3>Chun-Ta Lu</br>(Ph.D., 2018, Software Engineer @ Google Research)</h3></div>
+						</div>
+						
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/lifang-he-4a49a9a0" class="image fit"><img src="images/people/hlf.jpg" alt="" /></a>
+							<div class="inner"><h3>Lifang He</br>(PostDoc, 2017, Assistant Professor @ Lehigh University)</h3></div>
+						</div>
+					
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~fwang1" class="image fit"><img src="images/people/wfj.jpg" alt="" /></a>
+							<div class="inner"><h3>Fengjiao Wang</br>(Ph.D., 2017, Research Scientist @ Criteo Research)</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~jzhang2" class="image fit"><img src="images/people/zjw.jpg" alt="" /></a>
+							<div class="inner"><h3>Jiawei Zhang</br>(Ph.D., 2017, Assistant Professor @ Florida State University)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.linkedin.com/in/jzhan8" class="image fit"><img src="images/people/zjy.jpg" alt="" /></a>
+							<div class="inner"><h3>Jingyuan Zhang</br>(Ph.D., 2017, Research Scientist @ Baidu)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.linkedin.com/in/qingbo-hu-83499a44" class="image fit"><img src="images/people/hqb.jpg" alt="" /></a>
+							<div class="inner"><h3>Qingbo Hu</br>(Ph.D., 2016, Senior Business Analytics Associate @ LinkedIn)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.linkedin.com/in/weixiang-shao-b4b55a15" class="image fit"><img src="images/people/swx.jpg" alt="" /></a>
+							<div class="inner"><h3>Weixiang Shao</br>(Ph.D., 2016, Software Engineer @ Google)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.linkedin.com/in/xiaokai" class="image fit"><img src="images/people/wxk.jpg" alt="" /></a>
+							<div class="inner"><h3>Xiaokai Wei</br>(Ph.D., 2016, Research Scientist @ Facebook)</h3></div>
+						</div>
+						<div class="box">
+							<a href="http://www.cse.lehigh.edu/~sxie" class="image fit"><img src="images/people/xsh.jpg" alt="" /></a>
+							<div class="inner"><h3>Sihong Xie</br>(Ph.D., 2016, Assistant Professor @ Lehigh University)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~slin" class="image fit"><img src="images/people/lsy.jpg" alt="" /></a>
+							<div class="inner"><h3>Shuyang Lin</br>(Ph.D., 2015, Research Scientist @ Facebook)</h3></div>
+						</div>
+						<div class="box">
+							<a href="http://web.cs.wpi.edu/~xkong" class="image fit"><img src="images/people/kxn.jpg" alt="" /></a>
+							<div class="inner"><h3>Xiangnan Kong</br>(Ph.D., 2014, Assistant Professor @ Worcester Polytechnic Institute)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~gwang" class="image fit"><img src="images/people/wg.jpg" alt="" /></a>
+							<div class="inner"><h3>Guan Wang</br>(Ph.D., 2014, Principal Machine Learning Engineer @ Nauto)</h3></div>
+						</div>
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~xiaoxiao" class="image fit"><img src="images/people/sxx.jpg" alt="" /></a>
+							<div class="inner"><h3>Xiaoxiao Shi</br>(Ph.D., 2013, Head of SPM @ Engineers Gate)</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~yzhao" class="image fit"><img src="images/people/zyc.jpg" alt="" /></a>
+							<div class="inner"><h3>Yuchen Zhao</br>(Ph.D., 2013, VP of Engineering @ Xiaoshouyi)</h3></div>
+						</div>
+
+						<div class="box">
+							<a href="https://www.linkedin.com/in/leon-stenneth-ph-d-a0946412/" class="image fit"><img src="images/people/leon.jpg" alt="" /></a>
+							<div class="inner"><h3>Leon Stenneth</br>(Ph.D., 2013, AI&ML Manager@HERE Technologies)</h3></div>
+						</div>
+						
+						<div class="box">
+							<a href="https://www.cs.uic.edu/~yxie" class="image fit"><img src="images/people/xy2.jpg" alt="" /></a>
+							<div class="inner"><h3>Yan Xie</br>(Ph.D., 2012, Software Engineer @ Oracle)</h3></div>
+						</div>
+						
+						
+						<div class="box">
+							<a href="https://www.linkedin.com/in/vittorio-selo-9981aa111" class="image fit"><img src="images/people/sv.jpg" alt="" /></a>
+							<div class="inner"><h3>Vittorio Selo</br>(master student)</h3></div>
+						</div>
+						
+						
+					</div>
+					
+<!-- 					<h2>Previous Visiting Scholars</h2>
+
+						<div class="container">
+							<a href="https://www.linkedin.com/in/%E5%9B%BD%E7%90%BC-%E5%BB%96-87069396/en">Guoqiong Liao (professor)</a>
+
+							<a href="">Hao Chen (professor)</a> 
+							<a href="">Chuan Li (professor)</a> 
+							<a href="">Guiling Lin (professor)</a>
+
+							<a href="https://www.linkedin.com/in/%E5%9B%BD%E7%90%BC-%E5%BB%96-87069396/en">Guoqiong Liao (professor)</a>
+
+							<a href="">Kengpei Lin (professor)</a>
+
+							<a href="">Bo Liu (professor)</a></br>
+
+							<a href="">Zhang-Meng Liu (professor)</a>
+
+							<a href="https://www.linkedin.com/in/xiao-pan-13b96842">Xiao Pan (professor)</a>
+
+							<a href="http://www.cs.sdu.edu.cn/website_person_en.do?id=7447">Zhaohui Peng (professor)</a>
+
+							<a href="http://shichuan.org">Chuan Shi (professor)</a>
+
+							<a href="">Xianghong Tang (professor)</a></br>
+
+							<a href="">Chuankang Ting (professor)</a>
+							
+							<a href="http://ie.cufe.edu.cn/info/1094/1965.htm">Yue Wang (professor)</a>
+
+							<a href="https://www.linkedin.com/in/guangchao-wu-42867319">Guangchao Wu (professor)</a>
+							<a href="https://www.linkedin.com/in/yun-xiong-66705529">Yun Xiong (professor)</a>
+
+							<a href="">Guogui Yang (professor)</a></br>
+
+							<a href="https://www.linkedin.com/in/ning-yang-32a89b71">Ning Yang (professor)</a>
+
+							<a href="https://www.linkedin.com/in/chia-mu-yu-0b130988">Chia-Mu Yu (professor)</a>
+
+							<a href="">Ke Yu (professor)</a>
+
+							<a href="https://www.linkedin.com/in/xi-zhang-a1128b51">Xi Zhang (professor)</a>
+
+							<a href="http://www.lmars.whu.edu.cn/prof_web/zhongyanfei/e-index.html">Yanfei Zhong (professor)</a></br>
+
+							<a href="https://www.linkedin.com/in/%E5%BB%BA%E5%B9%B3-%E6%9B%B9-55569798/en">Jianping Cao (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/%E8%B4%BA%E6%98%8C-%E9%99%88-6b074b118/en">Hechang Chen (Ph.D. student)</a>
+							
+							<a href="">Liang Chen (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/yi-ling-chen-14677390">Yi-Ling Chen (Ph.D. student)</a></br>
+
+							<a href="">Meng-Feng Chiang (Ph.D. student)</a>
+
+							<a href="">Limeng Cui (Ph.D. student)</a>
+							
+							<a href="https://www.linkedin.com/in/vincent-w-gan-80a505b8">Wensheng Gan (Ph.D. student)</a>
+
+							<a href="">Fei Jiang (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/songchang-jin-29669473">Songchang Jin (Ph.D. student)</a></br>
+
+							
+							<a href="http://mmap.whu.edu.cn/personalpage/cliang_index.htm" >Chao Liang (Ph.D. student)</a>
+						
+							<a href="https://www.linkedin.com/in/%E5%A4%AA%E6%9D%BE-%E6%9D%8E-4b5543125">Taisong Li (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/%E5%A9%B7%E5%A9%B7-%E6%A2%81-088358a9">Tingting Liang (Ph.D. student)</a>
+
+							<a href="">Zhungxun Liao (Ph.D. student)</a>
+
+							<a href="">Wangqun Lin (Ph.D. student)</a></br>
+
+							<a href="">Yuchieh Lin (Ph.D. student)</a>
+
+							<a href="">Chengyin Liu (Ph.D. student)</a>
+
+							<a href="">Yuanping Nie (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/jia-min-ren-b22041105">Jia-Min Ren (Ph.D. student)</a></br>
+
+							<a href="https://www.linkedin.com/in/shi-weiwei-inlin">Weiwei Shi (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/hong-han-shuai-7ab4916a">Hong-Han Shuai (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/chongjing-sun-2665654b">Chongjing Sun (Ph.D. student)</a>
+							
+							<a href="http://wanyao.me/index.html">Yao Wan (Ph.D. student)</a></br>
+
+							<a href="https://www.linkedin.com/in/chang-dong-wang-b2872351">Chang-Dong Wang (Ph.D. student)</a>
+							
+							<a href="">Ji Wang (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/%E6%A3%AE%E7%AB%A0-%E7%8E%8B-3362129b">Senzhang Wang (Ph.D. student)</a>
+
+							<a href="">Yuqi Wang (Ph.D. student)</a></br>
+
+							<a href="">Rongze Xia (Ph.D. student)</a>
+
+							<a href="https://www.linkedin.com/in/linchuan-xu-44983979">Linchuan Xu (Ph.D. student)</a>
+
+							<a href="">Yang Yang (Ph.D. student from Peking University)</a>
+
+							<a href="https://www.linkedin.com/in/yangyangfuture">Yang Yang (Ph.D. student)</a></br>
+
+							<a href="https://www.linkedin.com/in/qianyi-zhan-317b8489">Qianyi Zhan (Ph.D. student)</a>
+							
+							<a href="https://www.linkedin.com/in/%E5%92%8F%E7%8F%8A-%E5%BC%A0-295b3497">Yongshan Zhang (Ph.D. student)</a>
+
+							<a href="">Junxing Zhu (Ph.D. student)</a>
+
+							<a href="">Yuqing Zhu (Ph.D. student)</a></br>
+							
+							
+						</div> -->
+					</br>
+
+
+					<div id="myCarousel" class="carousel slide" data-ride="carousel">
+					<!-- Indicators -->
+					<ol class="carousel-indicators">
+					  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					  <li data-target="#myCarousel" data-slide-to="1"></li>
+					  <li data-target="#myCarousel" data-slide-to="2"></li>
+					</ol>
+
+					<!-- Wrapper for slides -->
+					<div class="carousel-inner">
+						
+					  <div class="item active">
+					    <img src="images/group6.jpg" alt="" style="width:100%;">
+					    <div class="carousel-caption">
+					      <h2>Sep, 2019</h2>
+					    </div>
+					  </div>
+
+					  <div class="item">
+					    <img src="images/group5.jpg" alt="" style="width:100%;">
+					    <div class="carousel-caption">
+					      <h2>Sep, 2019</h2>
+					    </div>
+					  </div>
+
+					  <div class="item">
+					    <img src="images/group4.jpg" alt="" style="width:100%;">
+					    <div class="carousel-caption">
+					      <h2>Sep, 2019</h2>
+					    </div>
+					  </div>
+
+					  <div class="item">
+					    <img src="images/group3.jpg" alt="" style="width:100%;">
+					    <div class="carousel-caption">
+					      <h2>October, 2017</h2>
+					    </div>
+					  </div>
+
+					  <div class="item">
+					    <img src="images/group2.jpg" alt="" style="width:100%;">
+					    <div class="carousel-caption">
+					      <h2>December, 2016</h2>
+					    </div>
+					  </div>
+
+					  <div class="item">
+					    <img src="images/group1.jpg" alt="" style="width:100%;">
+					    <div class="carousel-caption">
+					      <h2>April, 2016</h2>
+					    </div>
+					  </div>
+
+					</div>
+
+					<!-- Left and right controls -->
+					<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+					  <span class="glyphicon glyphicon-chevron-left"></span>
+					  <span class="sr-only">Previous</span>
+					</a>
+					<a class="right carousel-control" href="#myCarousel" data-slide="next">
+					  <span class="glyphicon glyphicon-chevron-right"></span>
+					  <span class="sr-only">Next</span>
+					</a>
+					</div>
+
+					</br>
+				</section>
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				<div class="container">
+
+					<!-- Copyright -->
+						<div class="copyright">
+							<p>&copy; BDSC Lab. All rights reserved. | Maintained by <a href="https://www.linkedin.com/in/stevehuanghe/en">He Huang</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a> | Images by <a href="http://unsplash.com">Unsplash</a>.</p>
+						</div>
+
+				</div>
+			</div>
+
+	</body>
+</html>

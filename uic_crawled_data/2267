@@ -1,0 +1,141 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>F. Farzami</title>
+<meta name="generator" content="WYSIWYG Web Builder 12 - http://www.wysiwygwebbuilder.com">
+<link href="icon.png" rel="shortcut icon" type="image/x-icon">
+<link href="font-awesome.min.css" rel="stylesheet">
+<link href="Farhad_Farzami.css" rel="stylesheet">
+<link href="Index.css" rel="stylesheet">
+</head>
+<body onload="ShowObject('FullScreenLayer1', 0);ShowObject('FullScreenLayer2', 0);ShowObject('FullScreenLayer3', 0);return false;">
+   <div id="container">
+   </div>
+   <header id="PageHeader1" style="position:absolute;text-align:center;left:0px;top:0px;width:100%;height:100px;z-index:7777;">
+      <div id="PageHeader1_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_Heading4" style="position:absolute;left:14px;top:31px;width:332px;height:43px;text-align:center;z-index:0;">
+            <h1 id="Heading4">Farhad Farzami</h1></div>
+         <div id="wb_CssMenu1" style="position:absolute;left:841px;top:31px;width:336px;height:43px;text-align:right;z-index:1;">
+            <ul>
+               <li class="firstmain"><a href="#Home" target="_self">HOME</a>
+               </li>
+               <li><a href="#about" target="_self">ABOUT</a>
+               </li>
+            </ul>
+         </div>
+      </div>
+   </header>
+   <div id="Home" style="position:absolute;text-align:center;left:0px;top:435px;width:100%;height:701px;z-index:45;">
+      <div id="Home_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="RollOverLayer3" style="position:absolute;left:806px;top:55px;width:350px;height:250px;z-index:13">
+            <div class="hover">
+               <div id="wb_Image5" style="position:absolute;left:0px;top:0px;width:349px;height:198px;z-index:2;">
+                  <img src="images/04.jpg" id="Image5" alt=""></div>
+            </div>
+            <div class="default">
+               <div id="wb_Shape5" style="position:absolute;left:0px;top:0px;width:350px;height:250px;z-index:3;">
+                  <a href="./RF_Circuits.html" target="_blank"><img src="images/img0019.png" id="Shape5" alt="" style="width:350px;height:250px;"></a></div>
+            </div>
+         </div>
+         <div id="RollOverLayer6" style="position:absolute;left:806px;top:333px;width:350px;height:250px;z-index:14">
+            <div class="hover">
+               <div id="wb_FontAwesomeIcon1" style="position:absolute;left:91px;top:56px;width:168px;height:139px;text-align:center;z-index:4;">
+                  <div id="FontAwesomeIcon1"><i class="fa fa-users">&nbsp;</i></div></div>
+            </div>
+            <div class="default">
+            </div>
+         </div>
+         <div id="RollOverLayer5" style="position:absolute;left:423px;top:333px;width:350px;height:250px;z-index:15">
+            <div class="hover">
+               <div id="wb_Image6" style="position:absolute;left:76px;top:0px;width:211px;height:211px;z-index:5;">
+                  <a href="./Publication.html" target="_blank"><img src="images/Scholar2.png" id="Image6" alt=""></a></div>
+            </div>
+            <div class="default">
+               <div id="wb_Shape7" style="position:absolute;left:0px;top:0px;width:350px;height:250px;z-index:6;">
+                  <a href="./Publication.html" target="_blank"><img src="images/img0030.png" id="Shape7" alt="" style="width:350px;height:250px;"></a></div>
+            </div>
+         </div>
+         <div id="RollOverLayer4" style="position:absolute;left:46px;top:333px;width:350px;height:250px;z-index:16">
+            <div class="hover">
+               <div id="wb_Image3" style="position:absolute;left:0px;top:0px;width:350px;height:170px;z-index:7;">
+                  <img src="images/EM.jpg" id="Image3" alt=""></div>
+            </div>
+            <div class="default">
+               <div id="wb_Shape6" style="position:absolute;left:0px;top:0px;width:350px;height:250px;z-index:8;">
+                  <a href="./Andrew.html" target="_blank"><img src="images/img0029.png" id="Shape6" alt="" style="width:350px;height:250px;"></a></div>
+            </div>
+         </div>
+         <div id="RollOverLayer1" style="position:absolute;left:46px;top:55px;width:350px;height:250px;z-index:17">
+            <div class="hover">
+               <div id="wb_Image2" style="position:absolute;left:0px;top:0px;width:350px;height:213px;z-index:9;">
+                  <img src="images/bnm.gif" id="Image2" alt=""></div>
+            </div>
+            <div class="default">
+               <div id="wb_Shape1" style="position:absolute;left:0px;top:0px;width:350px;height:250px;z-index:10;">
+                  <a href="./Metamaterial.html" target="_blank"><img src="images/img0001.png" id="Shape1" alt="" style="width:350px;height:250px;"></a></div>
+            </div>
+         </div>
+         <div id="RollOverLayer2" style="position:absolute;left:425px;top:55px;width:350px;height:250px;z-index:18">
+            <div class="hover">
+               <div id="wb_Image4" style="position:absolute;left:0px;top:0px;width:349px;height:211px;z-index:11;">
+                  <img src="images/DSC_0048.JPG" id="Image4" alt=""></div>
+            </div>
+            <div class="default">
+               <div id="wb_Shape4" style="position:absolute;left:0px;top:0px;width:350px;height:250px;z-index:12;">
+                  <a href="./Antenna.html" target="_blank"><img src="images/img0010.png" id="Shape4" alt="" style="width:350px;height:250px;"></a></div>
+            </div>
+         </div>
+         <div id="wb_Heading9" style="position:absolute;left:108px;top:268px;width:226px;height:47px;text-align:center;z-index:19;">
+            <h1 id="Heading9"><a href="./About_me.html">Metamaterial</a></h1></div>
+         <div id="wb_Heading10" style="position:absolute;left:492px;top:268px;width:226px;height:47px;text-align:center;z-index:20;">
+            <h1 id="Heading10">Antenna</h1></div>
+         <div id="wb_Heading11" style="position:absolute;left:868px;top:268px;width:226px;height:47px;text-align:center;z-index:21;">
+            <h1 id="Heading11">RF Circuits</h1></div>
+         <div id="wb_Heading12" style="position:absolute;left:46px;top:507px;width:350px;height:84px;text-align:center;z-index:22;">
+            <h1 id="Heading12">Andrew Electromagnetics Lab</h1></div>
+         <div id="wb_Heading13" style="position:absolute;left:491px;top:544px;width:226px;height:47px;text-align:center;z-index:23;">
+            <h1 id="Heading13">Publications</h1></div>
+         <div id="wb_Heading14" style="position:absolute;left:868px;top:544px;width:226px;height:47px;text-align:center;z-index:24;">
+            <h1 id="Heading14">Links</h1></div>
+         <div id="wb_Shape3" style="position:absolute;left:220px;top:278px;width:350px;height:250px;z-index:25;">
+            <a href="./Andrew.html" target="_blank"><img src="images/img0004.png" id="Shape3" alt="" style="width:350px;height:250px;"></a></div>
+      </div>
+   </div>
+   <div id="intro" style="position:absolute;text-align:center;left:0px;top:100px;width:100%;height:335px;z-index:46;">
+      <div id="intro_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_Image1" style="position:absolute;left:454px;top:14px;width:300px;height:314px;z-index:26;">
+            <img src="images/2017-03-27 17.33.15.jpg" id="Image1" alt=""></div>
+      </div>
+   </div>
+   <div id="about" style="position:absolute;text-align:center;left:0px;top:1042px;width:100%;height:410px;z-index:47;">
+      <div id="about_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_Heading7" style="position:absolute;left:392px;top:55px;width:416px;height:58px;text-align:center;z-index:34;">
+            <h1 id="Heading7">ABOUT</h1></div>
+         <div id="wb_Text5" style="position:absolute;left:191px;top:143px;width:840px;height:174px;text-align:justify;z-index:35;">
+            <span style="color:#FFFFFF;font-family:Georgia;font-size:24px;">My name is Farhad Farzami, a PhD student at the University of Illinois at Chicago (UIC). I graduated with a master’s degree in Electrical Engineering from University of Tarbiat Modares , Tehran, Iran in February, 2012. My research interests are on Metamaterials and their applications in antennas and passive/active microwave circuits, Backscatter Communication Systems (BSC), In-Band Full-Duplex (IBFD)... </span></div>
+         <input type="submit" id="Button2" name="" value="Learn More" style="position:absolute;left:530px;top:336px;width:137px;height:39px;z-index:36;">
+         <div id="wb_Shape2" style="position:absolute;left:530px;top:334px;width:137px;height:42px;filter:alpha(opacity=0);opacity:0.00;z-index:37;">
+            <a href="./About_me.html"><img src="images/img0002.png" id="Shape2" alt="" style="width:137px;height:42px;"></a></div>
+      </div>
+   </div>
+   <div id="social" style="position:absolute;text-align:center;left:0px;top:1452px;width:100%;height:207px;z-index:48;">
+      <div id="social_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_Text7" style="position:absolute;left:454px;top:111px;width:304px;height:76px;text-align:center;z-index:38;">
+            <span style="color:#FFFFFF;font-family:Arial;font-size:16px;"><strong>851 S. Morgan M/C 154<br>Chicago, IL. 60607<br>Email: farzami[dot]farhad[at]gmail.com<br></strong></span></div>
+         <div id="wb_Text8" style="position:absolute;left:458px;top:33px;width:293px;height:22px;text-align:center;z-index:39;">
+            <span style="color:#FFFFFF;font-family:Arial;font-size:19px;"><strong>INFO</strong></span></div>
+      </div>
+   </div>
+   <div id="footer" style="position:absolute;text-align:center;left:0px;top:1659px;width:100%;height:65px;z-index:49;">
+      <div id="footer_Container" style="width:1200px;position:relative;margin-left:auto;margin-right:auto;text-align:left;">
+         <div id="wb_Text6" style="position:absolute;left:130px;top:0px;width:940px;height:16px;text-align:center;z-index:40;">
+            <span style="color:#FFFFFF;font-family:Arial;font-size:13px;">Copyright © Farhad Farzami 2017. All right reserved. </span></div>
+      </div>
+   </div>
+   <script src="jquery-1.12.4.min.js"></script>
+   <script src="jquery-ui.min.js"></script>
+   <script src="wwb12.min.js"></script>
+   <script src="Index.js"></script>
+</body>
+</html>

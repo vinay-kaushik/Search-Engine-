@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>UIC Today Events</title>
+		<link>https://today.uic.edu/events</link>
+		<description>UIC Events</description>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<pubDate>Fri, 08 May 2020 02:01:17 +0000</pubDate>
+		<atom:link href="https://today.uic.edu/events/feed/" rel="self" type="application/rss+xml" />
+						<item>
+					<title>Virtual Grad Fest</title>
+					<link>https://today.uic.edu/events/virtual-grad-fest</link>
+					<guid>https://today.uic.edu/events/virtual-grad-fest</guid>
+					<pubDate>Mon, 04 May 2020 05:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/04/2020 - 05/10/2020</uic-event-date><uic-event-excerpt>Interactive experience exclusively for the Class of 2020</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>Nonprofit Management Online Courses</title>
+					<link>https://today.uic.edu/events/nonprofit-management-online-courses-6</link>
+					<guid>https://today.uic.edu/events/nonprofit-management-online-courses-6</guid>
+					<pubDate>Thu, 07 May 2020 05:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/07/2020 - 06/10/2020</uic-event-date><uic-event-excerpt>Designed for individuals working in or with the nonprofit industry</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>Competitive Gaming Club Discord</title>
+					<link>https://today.uic.edu/events/competitive-gaming-club-discord-2020-05-08</link>
+					<guid>https://today.uic.edu/events/competitive-gaming-club-discord-2020-05-08</guid>
+					<pubDate>Fri, 08 May 2020 05:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/08/2020</uic-event-date><uic-event-excerpt>Gaming events scheduled</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>UIC Campus Recreation free online workouts</title>
+					<link>https://today.uic.edu/events/uic-campus-recreation-free-online-workouts-2020-05-08</link>
+					<guid>https://today.uic.edu/events/uic-campus-recreation-free-online-workouts-2020-05-08</guid>
+					<pubDate>Fri, 08 May 2020 05:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/08/2020</uic-event-date><uic-event-excerpt>Virtual events sponsored by Campus Recreation</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>Poetry Sharing with “The Flying Busman”</title>
+					<link>https://today.uic.edu/events/poetry-sharing-with-the-flying-busman</link>
+					<guid>https://today.uic.edu/events/poetry-sharing-with-the-flying-busman</guid>
+					<pubDate>Fri, 08 May 2020 17:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/08/2020</uic-event-date><uic-event-excerpt>Virtual event sponsored by the Women's Leadership and Resource Center</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>GLASapalooza: Celebrating GLAS Achievement and Our Graduating Minors</title>
+					<link>https://today.uic.edu/events/glasapalooza-celebrating-glas-achievement-and-our-graduating-minors</link>
+					<guid>https://today.uic.edu/events/glasapalooza-celebrating-glas-achievement-and-our-graduating-minors</guid>
+					<pubDate>Mon, 11 May 2020 21:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/11/2020</uic-event-date><uic-event-excerpt>Virtual celebration for graduating GLAS minors</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>Student Employment x UIC Life IG Takeover!</title>
+					<link>https://today.uic.edu/events/student-employment-x-uic-life-ig-takeover</link>
+					<guid>https://today.uic.edu/events/student-employment-x-uic-life-ig-takeover</guid>
+					<pubDate>Tue, 12 May 2020 17:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/12/2020</uic-event-date><uic-event-excerpt>Student Employment shares tips on how to find jobs on-campus, who's currently hiring, and more</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>Calling for a Feminist Foreign Policy to Confront the Pandemic</title>
+					<link>https://today.uic.edu/events/calling-for-a-feminist-foreign-policy-to-confront-the-pandemic</link>
+					<guid>https://today.uic.edu/events/calling-for-a-feminist-foreign-policy-to-confront-the-pandemic</guid>
+					<pubDate>Fri, 15 May 2020 17:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/15/2020</uic-event-date><uic-event-excerpt>Virtual event sponsored by the Women's Leadership and Resource Center</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>Virtual graduation ceremony</title>
+					<link>https://today.uic.edu/events/virtual-graduation-ceremony</link>
+					<guid>https://today.uic.edu/events/virtual-graduation-ceremony</guid>
+					<pubDate>Sat, 16 May 2020 05:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>05/16/2020</uic-event-date><uic-event-excerpt>Virtual ceremonies for individual colleges via MarchingOrder.com</uic-event-excerpt>]]></description>
+				</item>
+								<item>
+					<title>True Peace: the Presence of Justice</title>
+					<link>https://today.uic.edu/events/true-peace-the-presence-of-justice-2020-06-01</link>
+					<guid>https://today.uic.edu/events/true-peace-the-presence-of-justice-2020-06-01</guid>
+					<pubDate>Mon, 01 Jun 2020 14:00:00 +0000</pubDate>
+					<description><![CDATA[<uic-event-date>06/01/2020</uic-event-date><uic-event-excerpt>Exhibit highlights what women’s international peace organizing look like today</uic-event-excerpt>]]></description>
+				</item>
+						
+	</channel>
+</rss>

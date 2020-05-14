@@ -1,0 +1,21 @@
+<?php
+include("ipdhead1.html");
+include("news-sidenav.html");
+?>
+
+  <!-- start body/editable content //-->
+  
+  <div class="copy-content">
+  
+<p>Interdisciplinary Product Development (IPD) at UIC is a two-semester curriculum that integrates the latest technologies and best practices for innovative product development. The course combines Industrial Design,  Engineering, and MBA/Marketing students from all three colleges to work together in cross-functional teams to research and develop new product concepts. The course focuses on the early stages of the product development process, from identifying market opportunities through initial prototyping. Eschewing the old sequential model of product development, in which a design idea originates in a business unit, is given visual form by industrial design, and then passed off to engineering, this course teaches current best practices of true integration of all three disciplines from the very earliest stages of product development.
+</p>
+<p>The course is team taught by faculty from the three colleges. Each year, a corporate sponsor is recruited to serve as the partner, and provides the financial support to incorporate outside resources and materials not normally available to an academic environment. The sposoring company, in association with the IPD faculty, also provides an interesting and challenging assignment that will result in the research, conception and development of innovative product concepts for the sponsor.
+</p>
+
+    <p>The IPD course in 2017-18 partners with Baxter, BMW, and CAT.   </p>
+</div>
+
+<?php
+include("ipdfoot1.html");
+?>
+

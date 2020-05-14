@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+ <head>
+
+  <script type="text/javascript">
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2015.0.2.310"/>
+  <title>Home</title>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?4052507572"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?4271010832"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?4068998973" id="pagesheet"/>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+</script>
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
+  <![endif]-->
+   </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="clearfix colelem" id="pu3098"><!-- group -->
+     <div class="clearfix grpelem" id="u3098"><!-- column -->
+      <a class="nonblock nontext colelem" id="u3125" href="https://bioe.uic.edu/"><!-- simple frame --></a>
+      <div class="clearfix colelem" id="u3109-6"><!-- content -->
+       <p id="u3109-2">Papautsky Laboratory</p>
+       <p id="u3109-4">Microfluidic BioMicroSystems</p>
+      </div>
+      <nav class="MenuBar clearfix colelem" id="menuu803"><!-- horizontal box -->
+       <div class="MenuItemContainer clearfix grpelem" id="u811"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u812" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u814-4"><!-- content --><p>Home</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u1684"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1687" href="research.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1689-4"><!-- content --><p>Research</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u2821"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u2822" href="publications.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2825-4"><!-- content --><p>Publications</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u818"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u821" href="people.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u822-4"><!-- content --><p>People</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u804"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u807" href="news.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u809-4"><!-- content --><p>News</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u825"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u826" href="contact-us.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u827-4"><!-- content --><p>Contact Us</p></div></a>
+       </div>
+       <div class="MenuItemContainer clearfix grpelem" id="u1260"><!-- vertical box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u1263" href="join-lab.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u1266-4"><!-- content --><p>Join Lab</p></div></a>
+       </div>
+      </nav>
+     </div>
+     <a class="nonblock nontext clip_frame grpelem" id="u3119" href="https://bioe.uic.edu/"><!-- image --><img class="block" id="u3119_img" src="images/socialsmred.png" alt="" width="55" height="55"/></a>
+     <a class="nonblock nontext clearfix grpelem" id="u3126-8" href="https://bioe.uic.edu/"><!-- content --><p id="u3126-2">Richard and Loan Hill Department of Bioengineering</p><p id="u3126-4">College of Engineering | College of Medicine</p><p id="u3126-6">University of Illinois at Chicago</p></a>
+    </div>
+    <div class="SlideShowWidget clearfix colelem" id="slideshowu398"><!-- none box -->
+     <div class="popup_anchor" id="u400popup">
+      <div class="SlideShowContentPanel clearfix" id="u400"><!-- stack box -->
+       <div class="SSSlide clip_frame grpelem" id="u403"><!-- image -->
+        <img class="block ImageInclude" id="u403_img" data-src="images/bmsl01-crop-u403.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2112"><!-- image -->
+        <img class="block ImageInclude" id="u2112_img" data-src="images/bmsl01-crop-u2112.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2121"><!-- image -->
+        <img class="block ImageInclude" id="u2121_img" data-src="images/bmsl02-crop-u2121.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2130"><!-- image -->
+        <img class="block ImageInclude" id="u2130_img" data-src="images/bmsl03-crop-u2130.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2139"><!-- image -->
+        <img class="block ImageInclude" id="u2139_img" data-src="images/bmsl04-crop-u2139.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2148"><!-- image -->
+        <img class="block ImageInclude" id="u2148_img" data-src="images/bmsl05-crop-u2148.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2157"><!-- image -->
+        <img class="block ImageInclude" id="u2157_img" data-src="images/bmsl06-crop-u2157.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2166"><!-- image -->
+        <img class="block ImageInclude" id="u2166_img" data-src="images/bmsl07-crop-u2166.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u461"><!-- image -->
+        <img class="block ImageInclude" id="u461_img" data-src="images/bmsl02-crop-u461.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u470"><!-- image -->
+        <img class="block ImageInclude" id="u470_img" data-src="images/bmsl04-crop-u470.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u1022"><!-- image -->
+        <img class="block ImageInclude" id="u1022_img" data-src="images/bmsl03-crop-u1022.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u1050"><!-- image -->
+        <img class="block ImageInclude" id="u1050_img" data-src="images/rhodes9-crop-u1050.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u1064"><!-- image -->
+        <img class="block ImageInclude" id="u1064_img" data-src="images/bmsl06-crop-u1064.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u479"><!-- image -->
+        <img class="block ImageInclude" id="u479_img" data-src="images/bmsl07-crop-u479.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u2973"><!-- image -->
+        <img class="block ImageInclude" id="u2973_img" data-src="images/bmsl08-crop-u2973.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3006"><!-- image -->
+        <img class="block ImageInclude" id="u3006_img" data-src="images/bmsl08-crop-u3006.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3015"><!-- image -->
+        <img class="block ImageInclude" id="u3015_img" data-src="images/bmsl01-crop-u3015.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3024"><!-- image -->
+        <img class="block ImageInclude" id="u3024_img" data-src="images/bmsl02-crop-u3024.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3033"><!-- image -->
+        <img class="block ImageInclude" id="u3033_img" data-src="images/bmsl03-crop-u3033.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3042"><!-- image -->
+        <img class="block ImageInclude" id="u3042_img" data-src="images/bmsl04-crop-u3042.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3051"><!-- image -->
+        <img class="block ImageInclude" id="u3051_img" data-src="images/bmsl05-crop-u3051.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3060"><!-- image -->
+        <img class="block ImageInclude" id="u3060_img" data-src="images/bmsl06-crop-u3060.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3069"><!-- image -->
+        <img class="block ImageInclude" id="u3069_img" data-src="images/bmsl07-crop-u3069.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+       <div class="SSSlide invi clip_frame grpelem" id="u3262"><!-- image -->
+        <img class="block ImageInclude" id="u3262_img" data-src="images/bmsl09-crop-u3262.jpg" src="images/blank.gif" alt="" data-width="960" data-height="403"/>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u408-4popup">
+      <div class="SSPreviousButton clearfix" id="u408-4"><!-- content -->
+       <p><span id="u408">&lt;</span></p>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u399-4popup">
+      <div class="SSNextButton clearfix" id="u399-4"><!-- content -->
+       <p>&gt;</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="ppu544-10"><!-- group -->
+     <div class="clearfix grpelem" id="pu544-10"><!-- column -->
+      <div class="clearfix colelem" id="u544-10"><!-- content -->
+       <p>The Papautsky Lab performs highly multi-disciplinary research, from fundamental science to applied work. Our mission is to understand and develop microfluidic systems and point-of-care sensors for improving public health and safety. We also have a strong interest in developing microfabrication and nanofabrication techniques.&nbsp; The Papautsky Lab has extensive experience and practical knowledge in design and development of microfluidic and point-of-care sensor systems. We also have extensive knowledge of clean room operations as well as the associated equipment needed to fabricate and characterize micro devices and systems. We are a founding member of the NSF Center for Advanced Design and Manufacturing of Integrated Microfluidics (<a class="nonblock" href="http://www.inrf.uci.edu/cadmim/">CADMIM</a>) and&nbsp; the Ohio Center for Microfluidic Innovation (<a class="nonblock" href="http://ceas.uc.edu/ocmi.html">OCMI</a>).</p>
+      </div>
+      <div class="clearfix colelem" id="pu596"><!-- group -->
+       <div class="clip_frame clearfix grpelem" id="u596"><!-- image -->
+        <div id="u596_clip">
+         <img class="position_content" id="u596_img" src="images/imf0.jpg" alt="" width="204" height="151"/>
+        </div>
+       </div>
+       <div class="clip_frame clearfix grpelem" id="u607"><!-- image -->
+        <div id="u607_clip">
+         <img class="position_content" id="u607_img" src="images/echem0.jpg" alt="" width="201" height="158"/>
+        </div>
+       </div>
+       <div class="clip_frame grpelem" id="u1797"><!-- image -->
+        <img class="block" id="u1797_img" src="images/fab0-crop-u1797.jpg" alt="" width="199" height="147"/>
+       </div>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="u538-30"><!-- content -->
+      <p id="u538-2">Enabling Technologies for Circulating Biomarkers 2019</p>
+      <p id="u538-4">Tuesday, June 25, 2019</p>
+      <p id="u538-6">Dr. Papautsky will give an invited talk at the Cambridge Healthtech Institute (CHI) Eleventh Annual Enabling Technologies for Circulating Biomarkers conference taking place on August 20-21, 2019 at the Grand Hyatt Washington in Washington.</p>
+      <p id="u538-7">&nbsp;</p>
+      <p id="u538-9">Microsystems &amp; Nanoengineering Summit 2019</p>
+      <p id="u538-11">Tuesday, June 25, 2019</p>
+      <p id="u538-13">Dr. Papautsky will give an invited talk at the 2019 Microsystems &amp; Nanoengineering Summit (MINE2019) in Shanghai on July 7-10, 2019.</p>
+      <p id="u538-14">&nbsp;</p>
+      <p id="u538-16">Welcome to our new undergraduate student!</p>
+      <p id="u538-18">Tuesday, June 25, 2019</p>
+      <p id="u538-20">Kristin Carter, Bioengineering sophomore,&nbsp; joins the Papautsky lab for the summer as part of the College of Engineering GPIP program. Welcome aboard!</p>
+      <p id="u538-21">&nbsp;</p>
+      <p id="u538-23">Welcome to our new graduate student!</p>
+      <p id="u538-25">Tuesday, June 25, 2019</p>
+      <p id="u538-27">Celine Macaraniag (B.S. Bioengineering) joins the Papautsky lab at UIC. Welcome aboard!</p>
+      <p>&nbsp;</p>
+     </div>
+    </div>
+    <div class="verticalspacer"></div>
+    <div class="clearfix colelem" id="u3086"><!-- group -->
+     <div class="clearfix grpelem" id="u3091-9"><!-- content -->
+      <p>851 S. Morgan Street, 218 SEO (MC063)</p>
+      <p>Chicago, IL 60607</p>
+      <p>312.413.3800&nbsp; |&nbsp; papauts@uic.edu</p>
+     </div>
+     <div class="clearfix grpelem" id="u3127-4"><!-- content -->
+      <p>© 2019 University of Illinois at Chicago</p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="scripts/museutils.js?275725342" type="text/javascript"></script>
+  <script src="scripts/jquery.musemenu.js?4042164668" type="text/javascript"></script>
+  <script src="scripts/webpro.js?3883484123" type="text/javascript"></script>
+  <script src="scripts/musewpslideshow.js?360574455" type="text/javascript"></script>
+  <script src="scripts/jquery.museoverlay.js?342093292" type="text/javascript"></script>
+  <script src="scripts/touchswipe.js?4218319045" type="text/javascript"></script>
+  <script src="scripts/jquery.watch.js?3999102769" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#slideshowu398', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:true,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu398 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>

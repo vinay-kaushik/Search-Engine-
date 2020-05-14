@@ -1,0 +1,1805 @@
+  
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js ie ie6 lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]><html class="no-js ie ie7 lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]><html class="no-js ie ie8 lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+
+    <head>
+
+<!-- Google Analytics script (RED and this site) -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    
+        ga('create', 'UA-20665772-1', 'auto');
+    
+        ga('create', 'UA-43307704-4', 'auto', 'gfrcTracker');
+    
+        ga('send', 'pageview');
+    
+        ga('gfrcTracker.send', 'pageview');
+      </script>
+<!-- End Google Analytics script (RED and this site) -->
+
+
+
+<!-- Google Tag Manager script for RED multisite -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-W2Q8D2K');
+  </script>
+<!-- End Google Tag Manager script for RED multisite -->
+
+
+
+
+<!-- Google Tag Manager script for this site -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+              j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+              (window,document,'script','dataLayer','GTM-5SX9JZB');
+  </script>
+<!-- End Google Tag Manager script for this site -->
+
+
+        <title>
+                            Government Finance Research Center | University of Illinois at Chicago
+                    </title>
+
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://gfrc.uic.edu/xmlrpc.php" />
+
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&nbsp;"/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="mstile-310x310.png" />
+
+    <link rel="stylesheet" href="https://gfrc.uic.edu/wp-content/themes/uic-red/main.css?v=1588698688" type="text/css" media="all" />
+    <link rel="stylesheet" href="https://gfrc.uic.edu/wp-content/themes/uic-red/theinhardt.css?v=1588698688" type="text/css" media="all">
+
+    <link rel='dns-prefetch' href='//www.uic.edu' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gfrc.uic.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://gfrc.uic.edu/wp-includes/css/dist/block-library/style.min.css?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://gfrc.uic.edu/wp-content/plugins/instagram-feed/css/sb-instagram.min.css?ver=1.12.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://gfrc.uic.edu/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/2.2.3/jquery.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+<link rel='https://api.w.org/' href='https://gfrc.uic.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gfrc.uic.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gfrc.uic.edu/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//gfrc.uic.edu/?wordfence_lh=1&hid=1211BFBF11BA557235A46F89968C9BAF');
+</script>
+</head>
+      
+  <body>
+
+<!-- Google Tag Manager for RED multisite (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W2Q8D2K" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for RED multisite (noscript) -->
+
+<!-- Google Tag Manager for this site (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id='GTM-5SX9JZB'" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager for this site (noscript) -->
+
+
+
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  <div class="l-page home blog post-type-- is-homepage site-type-a theme--blue no-sidebar  ">
+
+
+    <!--[if lte IE 9]>
+<div class="browser-stripe u-dark-region">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+<![endif]-->
+<div class="browser-stripe u-dark-region ie10">
+  <div class="l-full">
+      <h2>Your browser is unsupported</h2>
+      <p>We recommend using the latest version of IE11, Edge, Chrome, Firefox or Safari.</p>
+  </div>
+</div>
+    
+<header class="l-header" role="banner">
+
+  
+  <div class="header-navigation">
+
+      <div id="skip" class="skip-menu assistive-text">
+  <p>
+    <span class="_main">
+    <a href="#article">Skip to the content of this page</a>,
+    </span>
+    <a class="_primary-menu" href="#menu-main">the main menu</a>,
+
+    
+    
+    <a class="_search" href="#search">the site search form</a>,
+
+    <a class="_home" href="https://gfrc.uic.edu">the site home page</a>.
+  </p>
+</div>
+
+      <div class="eyebrow-mobile-wrapper js-eyebrow-mobile">
+<div class="eyebrow-mobile">
+            <div class="eyebrow-mobile-logo eyebrow-logo">
+            <a href="http://uic.edu" class="uic-logo-icon eyebrow-mobile-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+    </div>
+                <div class="site-title-eyebrow-mobile">
+          <a href="https://gfrc.uic.edu">Government Finance Research Center</a>
+        </div>
+    
+    <button aria-label="Search the site" class="search-toggle-mobile js-search-toggle-mobile">
+  <span class="icon-search ">
+        <span class="assistive-text">Search the site</span>
+      </span>
+    </button>
+    <button class="nav-header-toggle js-nav-header-toggle">
+      <span class="icon-menu ">
+      Toggle Menu
+      </span>
+    </button>
+  </div>
+  <div class="search-input-container-mobile">
+    <div class="search-input-container-mobile__content">
+      <div class="search-title">
+        Search
+        <a class="search-close search-toggle-mobile">
+          <svg aria-label="Close search box" width="100%" height="100%" viewBox="0 0 22 22">
+            <use xlink:href="https://gfrc.uic.edu/wp-content/themes/uic-red/images/svgs/svgs.svg#icon-close"></use>
+          </svg>
+        </a>
+      </div>
+      <form method="get" action="/search" role="search" aria-label="Search this site on your mobile device">
+        <input type="text" name="q" class="search-input-mobile" placeholder="Search..." tabindex="-1" aria-label="Search this site on your mobile device" disabled="">
+        <input type="submit" class="submit-button" name="search" value="Submit">
+      </form>
+    </div>
+  </div>
+</div>
+
+    <div class="header-navigation__eyebrow">
+
+                    <div class="header-navigation-logo header-logo">
+                        <a href="http://uic.edu" class="uic-logo-icon header-navigation-logo__uic-logo">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+            </div>
+                <div class="header-navigation__eyebrow-menus">
+
+            <div class="header-navigation__logo-and-site-title">
+
+                                <div class="site-title-main ">
+                                      <a href="https://gfrc.uic.edu">Government Finance Research Center</a>
+                                    </div>
+              
+            </div>
+          <nav class="header-menus js-header-menus " aria-label="Primary" role="navigation">
+
+  <div class="site-title-mobile-menu">
+    <a href="https://gfrc.uic.edu">Government Finance Research Center</a>
+  </div>
+
+  
+  <h2 class="assistive-text">Main Menu</h2>
+  <ul id="menu-main" class="menu menu-main" aria-label="Main Menu">
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-55 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/our-work/"
+        target="_self">
+
+        Our Work
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand Our Work menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand Our Work menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-955">
+                <a 
+                  class="menu-main__second-link"
+                  href="/our-work/briefs-research-reports-white-papers/"
+                  target="_self">
+
+                  Briefs, Research Reports &amp; White Papers
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-954">
+                <a 
+                  class="menu-main__second-link"
+                  href="/our-work/columns-commentaries-and-op-eds/"
+                  target="_self">
+
+                  Columns, Commentaries, and Op-Eds
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1105">
+                <a 
+                  class="menu-main__second-link"
+                  href="/our-work/the-government-finance-research-blog/"
+                  target="_self">
+
+                  The Government Finance Research Blog
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-957">
+                <a 
+                  class="menu-main__second-link"
+                  href="/our-work/2018-urban-forum-white-papers/"
+                  target="_self">
+
+                  Urban Forum White Papers
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-52 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/news-and-events/"
+        target="_self">
+
+        News and Events
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand News and Events menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand News and Events menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-147">
+                <a 
+                  class="menu-main__second-link"
+                  href="/news-and-events/news/"
+                  target="_self">
+
+                  News
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-146">
+                <a 
+                  class="menu-main__second-link"
+                  href="/news-and-events/events/"
+                  target="_self">
+
+                  Events
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-54 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/staff-members/"
+        target="_self">
+
+        People
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand People menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand People menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-219">
+                <a 
+                  class="menu-main__second-link"
+                  href="/staff-members/faculty-and-staff/"
+                  target="_self">
+
+                  Faculty and Staff
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-92">
+                <a 
+                  class="menu-main__second-link"
+                  href="/staff-members/faculty-advisory-panel/"
+                  target="_self">
+
+                  Faculty Advisory Panel
+                </a>
+              </li>
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-93">
+                <a 
+                  class="menu-main__second-link"
+                  href="/staff-members/external-advisory-committee/"
+                  target="_self">
+
+                  External Advisory Panel
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+      <li class="menu-main__first-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-53 menu-item-has-children">
+      <a 
+        class="menu-main__first-link"
+        href="/about-gfrc/"
+        target="_self">
+
+        About
+      </a>
+
+              <button class="menu-main__expand-item js-expand-item" role="button">
+          <svg class="menu-main__expand-icon" aria-label="Expand About menu" width="32" height="32" viewBox="0 0 32 32">
+            <title>Expand About menu</title>
+            <g fill="none" fill-rule="evenodd">
+              <ellipse class="menu-main__expand-circle" stroke-width="1" stroke="#001E62" fill="#001E62" cx="16" cy="16" rx="15.5" ry="15.5"></ellipse>
+              <path class="menu-main__expand-chevron" stroke-width="2" stroke="#fff" stroke-linecap="round" d="M12 18l4-4 4 4"></path>
+            </g>
+          </svg>
+        </button>
+
+        <div class="menu-main__submenus-container">
+          <ul class="menu-main__second-list">
+                          <li class="menu-main__second-item  menu-item menu-item-type-post_type menu-item-object-page menu-item-1122">
+                <a 
+                  class="menu-main__second-link"
+                  href="/about-gfrc/contact-us/"
+                  target="_self">
+
+                  Contact Us
+                </a>
+              </li>
+                      </ul>
+
+          <div class="menu-main__mega-menu-container">
+                      </div>
+        </div>
+          </li>
+  </ul>
+
+  <div class="l-eyebrow">
+
+    <h2 class="assistive-text">Eyebrow menu</h2>
+    <ul id="menu-eyebrow" class="menu menu-eyebrow" aria-label="Eyebrow menu">
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-233">
+            <a  href="/about-gfrc/contact-us/" target="_self">Contact GFRC</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-1127">
+            <a  href="http://cuppa.uic.edu" target="_blank">CUPPA</a>
+        </li>
+            <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-232">
+            <a  href="/online-giving-to-gfrc/" target="_self">Make a Gift</a>
+        </li>
+    </ul>
+
+    <h2 class="assistive-text">UIC menu</h2>
+    <ul class="menu-uic">
+      <li class="_item">
+    <a href="http://uic.edu">UIC.edu</a>
+  </li>
+  <li class="_item">
+    <a href="http://maps.uic.edu/">Campus Map</a>
+  </li>
+</ul>
+
+
+
+    <div aria-label="Primary" role="search" class="search-wrapper">
+
+      <button id="search" class="search-toggle">
+        <span class="icon-search ">
+          <span class="assistive-text">Search</span>
+        </span>
+      </button>
+
+      <div class="search-input-container">
+        <div class="search-input-container__form">
+          <form method="get" action="/search" >
+            <input type="text" name="q" class="search-input" placeholder="Search..." tabindex="-1" aria-label="Search" disabled="">
+            <input type="submit" class="submit-button" name="search" value="Submit">
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+
+  </div>
+
+
+</nav>
+        </div>
+    </div>
+
+    
+  </div>
+
+                  <div
+  class="header-title header-title--type-treatment header-title--hero header-title--home"
+  style="
+    background-image:url('https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/02/pa-uic-skyline-e1519334107609-1440x700.jpg');">      <div class="color-wash-gradient            
+            ">
+
+                  <img src="" alt="Willis Tower from Campus">
+        
+    </div>
+    <div class="l-full">
+    <div class="header-title__content ">
+              <div class="_brand">
+            <div class="header-hero-logo">
+                  <div class="uic-type-treatment  ">
+
+  <div class="_mark">
+    <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+  </div>
+
+  <div class="_text">
+    <a href="https://gfrc.uic.edu">
+          Government Finance Research Center
+        </a>
+  </div>
+
+</div>
+          </div>
+        </div>
+            <div class="_text  _text--no-wordmark ">
+                  <h1 class="assistive-text">Government Finance Research Center</h1>
+          <div
+            class="header-title-title header-title-title--a">Making a difference in state and local finance.</div>
+              </div>
+    </div>
+  </div>
+</div>
+          
+        
+</header>
+
+    <main id="main" class="l-content-wrapper" role="main">
+
+      
+      
+      <div class="">
+
+        <div class="l-content ">
+
+                    
+	          
+          
+          <article class="post-type-" id="article">
+                <div class="l-full">
+                  <div class="intro-text">
+
+                      
+            
+    
+    
+        
+  </div>
+    </div>
+    <div class="components">
+
+  
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="summary-of-gfrc" class="__title invisible">Summary of GFRC</h2>
+                    </div>
+
+  
+  <p>The purpose of the Government Finance Research Center at the University of Illinois at Chicago (UIC) College of Urban Planning and Public Affairs (CUPPA) is to shape and inform public policy and scholarly discourse on government and public finance by identifying, planning and executing research, providing periodic reports and informed analyses, and offering venues at which to convene national and local discussion on fiscal and governmental issues.</p>
+
+
+
+  
+</div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  
+    <div class="
+    component-call-to-action
+    
+    
+    ">
+
+    
+    <div class="component-description">
+                    <h2 id="contact-us" class="__title invisible">Contact Us</h2>
+                    </div>
+
+    <ul class="_items call-to-action-links">
+              <li>
+                      <a  href="https://gfrc.uic.edu/about-gfrc/"
+            target="_self">
+                            <span class="call-to-action-links__icon user-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>User icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M28.09 26.197C25.707 29.127 22.072 31 18 31s-7.707-1.872-10.09-4.803c1.367-.762 4.573-2.54 5.125-2.744.182-.077.428-.823.488-1.48l.04-.428h.455l.304-1.474.007-.02c.013-.05.022-.174-.018-.2-.473-.32-1.248-1.518-1.41-3.416l-.327-.17-.298-2.284.502-.326-.118-3.344-.004-.02c-.022-.16-.455-3.955 7.11-5.145l.088-.014c.24.036.476.076.71.123l-.28.56c-.028.067-.098.343.384.618.812.468 2.276 1.307 2.608 3.184h.07l-.002.484-.004.102.032.5h-.05l-.103 2.954.503.326-.298 2.283-.327.17c-.162 1.9-.937 3.097-1.41 3.416-.044.028-.025.173-.017.2l.312 1.495h.455l.04.427c.07.735.324 1.41.488 1.48.553.205 3.76 1.983 5.125 2.745z" fill="#FFF"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">About Us</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://gfrc.uic.edu/staff-members/"
+            target="_self">
+                            <span class="call-to-action-links__icon people-icon" aria-hidden="true">
+                  <svg viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+    <title>People Icon</title>
+    <ellipse class="_circle" fill="#001E62" cx="18" cy="18" rx="18" ry="18"/>
+    <path class="_mark" d="M20.39,12.05a4.33,4.33,0,0,1,2,3.19,3.2,3.2,0,0,0,1.45.3,3.42,3.42,0,1,0-3.42-3.49Zm-2.2,7a3.42,3.42,0,1,0-3.42-3.41A3.4,3.4,0,0,0,18.19,19Zm1.44.23H16.75a4.4,4.4,0,0,0-4.4,4.4V27.3l.22.08a19.27,19.27,0,0,0,6,1,12,12,0,0,0,5.24-1l.22-.15h0V23.66A4.45,4.45,0,0,0,19.63,19.26Zm5.69-3.49H22.44a4.25,4.25,0,0,1-1.29,3,5.24,5.24,0,0,1,3.72,5V24.8a10.9,10.9,0,0,0,4.63-1l.23-.15h0V20.09A4.39,4.39,0,0,0,25.32,15.77Zm-13.2-.23A3.69,3.69,0,0,0,13.94,15a4.42,4.42,0,0,1,1.59-2.73v-.23a3.42,3.42,0,1,0-6.83,0A3.47,3.47,0,0,0,12.12,15.54Zm3.11,3.19a4.25,4.25,0,0,1-1.29-3H10.68a4.41,4.41,0,0,0-4.41,4.4v3.64l.23.08a18.52,18.52,0,0,0,4.93.91V23.74A5.33,5.33,0,0,1,15.23,18.73Z" fill="#FFF"/>
+</svg>                </span>
+                <span class="_text">Meet Our Team</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="https://gfrc.uic.edu/data-portals/"
+            target="_self">
+                            <span class="call-to-action-links__icon matrix-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Matrix icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="24" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="18" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="12" cy="12" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="18" cy="12" r="2"/>
+    <circle class="_mark" fill="#FFF" cx="24" cy="12" r="2"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Data Portals</span>
+              
+            </a>
+                  </li>
+              <li>
+                      <a  href="mailto:gfrc@uic.edu" target="_top">
+                              <span class="call-to-action-links__icon envelope-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Envelope icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <rect class="_mark" fill="#FFF" x="8" y="10" width="20" height="16" rx="1"/>
+    <path class="_circle-color" d="M22.354 19.646c-.196-.195-.512-.195-.708 0-.195.196-.195.512 0 .708l4 4c.196.195.512.195.708 0 .195-.196.195-.512 0-.708l-4-4zM9.646 23.646c-.195.196-.195.512 0 .708.196.195.512.195.708 0l4-4c.195-.196.195-.512 0-.708-.196-.195-.512-.195-.708 0l-4 4zM17.646 20.354c.196.195.512.195.708 0l8-8c.195-.196.195-.512 0-.708-.196-.195-.512-.195-.708 0l-8 8h.708l-8-8c-.196-.195-.512-.195-.708 0-.195.196-.195.512 0 .708l8 8z" fill="#001E62"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Contact Us</span>
+                          </a>
+                  </li>
+              <li>
+                      <a  href="https://twitter.com/govfinanceuic?lang=en"
+            target="_blank">
+                            <span class="call-to-action-links__icon speech-icon" aria-hidden="true">
+                  <svg width="36" height="36" viewBox="0 0 36 36" xmlns="http://www.w3.org/2000/svg">
+  <title>Speech bubble icon</title>
+  <g fill="none" fill-rule="evenodd">
+    <circle class="_circle" fill="#001E62" cx="18" cy="18" r="18"/>
+    <path class="_mark" d="M8 17.1C8 12.626 12.477 9 18 9s10 3.626 10 8.1-4.477 8.1-10 8.1c-1.502 0-2.927-.268-4.205-.75L9 27l.887-5.163C8.7 20.505 8 18.867 8 17.1z" stroke="#FFF" stroke-width="2"/>
+  </g>
+</svg>
+                </span>
+                <span class="_text">Follow Us</span>
+              
+            </a>
+                  </li>
+          </ul>
+  </div>
+
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  
+  
+    <div class="component-description">
+                    <h2 id="whats-new-at-the-gfrc" class="__title visible">What's New at the GFRC?</h2>
+                    </div>
+
+  <ul class="component-link-tile ">
+      <li class="component-link-tile__item component-link-tile__item--regular">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://patimes.org/understanding-a-citys-fiscal-base/"
+       target="_blank">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--regular">
+        <div class="
+            tile-item__title
+            tile-item__title--regular">
+            Understanding a City's Fiscal Base
+        </div>
+
+        
+                    <div class="tile-item__description">
+                Michael Pagano and Yonghong Wu Explore The Disconnect  Between Municipal Revenue Structures And Their Economic Base.
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--regular">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.nlc.org/resource/read-nlcs-city-fiscal-conditions-2019-report"
+       target="_blank">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--regular">
+        <div class="
+            tile-item__title
+            tile-item__title--regular">
+            NCL Releases Report Co-Authored By Michael Pagano
+        </div>
+
+        
+                    <div class="tile-item__description">
+                34th Annual City Fiscal Condition Report was released by NLC. Pagano has coauthored this annual report since 1991.
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--regular">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://patimes.org/whither-market-discipline-lessons-from-the-puerto-rican-default/"
+       target="_blank">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--regular">
+        <div class="
+            tile-item__title
+            tile-item__title--regular">
+            Robert Chirinko Examines Puerto Rican Defaults
+        </div>
+
+        
+                    <div class="tile-item__description">
+                In an op-ed in PA Times, Chirinko explores lessons learned from Puerto Rico's debt crisis
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--regular">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://gfrc.uic.edu/our-work/"
+       target="_self">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--regular">
+        <div class="
+            tile-item__title
+            tile-item__title--regular">
+            Hospital Borrowing Costs Lower Under ACA
+        </div>
+
+        
+                    <div class="tile-item__description">
+                New GFRC Study by Dermot Murphy connects Affordable Care Act subsidies and uncertainty to hospital borrowing costs
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--regular">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.chicagobusiness.com/forum-ideas/hasty-shortsighted-reforms-make-more-pension-pain-later"
+       target="_blank">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--regular">
+        <div class="
+            tile-item__title
+            tile-item__title--regular">
+            Amanda Kass Cautions Officials on Pension Reform
+        </div>
+
+        
+                    <div class="tile-item__description">
+                Read Kass's Latest Column In Crain's Chicago Business
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--regular">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.governing.com/columns/smart-mgmt/col-revenue-forecasting-fragility-traditional-wisdom.html"
+       target="_blank">
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--regular">
+        <div class="
+            tile-item__title
+            tile-item__title--regular">
+            Michael Pagano Explains Revenue Forecasting Perils
+        </div>
+
+        
+                    <div class="tile-item__description">
+                Read Pagano's Newest Column In Governing Magazine
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+    </ul>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  <div class="component-text-block">
+  
+    <div class="component-description">
+                    <h2 id="the-government-finance-research-blog" class="__title visible">The Government Finance Research Blog</h2>
+                    </div>
+
+  
+  <p>The Government Finance Research Center at UIC is a place for sharing. Academics, practitioners and others can rely on its blog for commentary and information about promising and not-so promising practices and much more.</p>
+<p>The GFRC blog features a succession of posts short enough to be read by busy people and long enough to offer strong content. They’ll be written by well-known experts in the field.</p>
+<h3>Check out our latest posts below and <strong><a href="https://gfrc.uic.edu/our-work/the-government-finance-research-blog/">click here to see all blog posts.</a></strong></h3>
+
+
+
+  
+</div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  
+  
+    <div class="component-description">
+                    <h2 id="the-government-finance-research-blog" class="__title invisible">The Government Finance Research Blog</h2>
+                    </div>
+
+  <ul class="component-link-tile ">
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://gfrc.uic.edu/public-finance-strategies-for-the-post-covid-economy/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2020/05/Finance-Covid-Response2020444-WorldBank-resized-600x397.jpg"
+                alt="COVID and Finance Graph Image">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Public Finance for the Post-COVID Economy
+        </div>
+
+        
+                    <div class="tile-item__description">
+                By Girard Miller, Governing columnist and public finance consultant
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://gfrc.uic.edu/how-states-will-balance-budgets-as-coronavirus-spreads-fiscal-stress/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2020/04/corona-dollar-getty-600x397.jpg"
+                alt="COVID-19 and Finances">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            How States Balance Budgets as COVID-19 Spreads
+        </div>
+
+        
+                    <div class="tile-item__description">
+                By William Glasgall, senior vice president and director of state and local initiatives at the Volcker Alliance
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://gfrc.uic.edu/covid-19s-implications-for-state-and-local-governments-revenue-collections/"
+       target="_self">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2020/04/download-1-600x397.png"
+                alt="COVID-19">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--internal
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            COVID-19’s Implications for Governments’ Revenue
+        </div>
+
+        
+                    <div class="tile-item__description">
+                By Amanda Kass, Associate Director, Government Finance Research Center
+            </div>
+            </div>
+    </a>
+</div>
+
+    </li>
+    </ul>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+        
+
+
+<div class="highlight component-highlight-image
+">
+
+
+  <div class="_image" style="
+  background-image: url('https://gfrc.uic.edu/wp-content/uploads/sites/188/2020/03/chicagoSkyline-550x550.jpg')
+  ">
+    <img src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2020/03/chicagoSkyline-550x550.jpg" alt="Chicago" class="invisible">
+  </div>
+
+
+  <div class="_content u-dark-region">
+      
+  <div class="highlight-image">
+    <h2 class="_title visible">A Conversation With...</h2>
+    <div class="_text"><p>The Government Finance Research Center works with researchers from a variety of backgrounds to analyze the role that public finance plays in our lives. In the interviews below, we talk with experts to dig deeper into pertinent topics and get their perspective on the past, present, and future of government finance.</p>
+<p>See our latest conversation below:</p>
+</div>
+            <a  href="https://gfrc.uic.edu/a-conversation-with/" class="_button button">
+      Rick Mattoon
+    </a>
+          </div>
+
+  </div>
+
+</div>
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+      <div class="component-highlight-news">
+        
+    <div class="component-description">
+                    <h2 id="hot-off-the-presses-gfrc-in-the-media" class="__title visible">Hot Off the Presses - GFRC in the Media</h2>
+                    </div>
+                            <div class="component-highlight-news__list-2col">
+                <div class="component-highlight-news__column">
+          <article class="tease tease-news" id="tease-1350">
+	
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://gfrc.uic.edu/news-stories/joshua-drucker-and-rachel-weber-co-author-essay-for-pa-times-on-tif-use-and-the-great-recession/" >Joshua Drucker And Rachel Weber Co-author Essay for PA Times On TIF Use And The Great Recession</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>May 08, 2020</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>          <article class="tease tease-news" id="tease-1330">
+	
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://gfrc.uic.edu/news-stories/amanda-kass-discusses-igpa-report-and-illinois-budget-on-the-21st/" >Amanda Kass Discusses IGPA Report And Illinois Budget On The 21st</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>April 16, 2020</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>          <article class="tease tease-news" id="tease-1328">
+	
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://gfrc.uic.edu/news-stories/michael-pagano-interviewed-by-nprs-marketplace-on-local-government-budgets/" >Michael Pagano Interviewed By NPR's Marketplace On Local Government Budgets</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>April 16, 2020</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>    </div>
+<div class="component-highlight-news__column">
+          <article class="tease tease-news" id="tease-1326">
+	
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://gfrc.uic.edu/news-stories/michael-pagano-interviewed-by-univision-on-covid-19s-impact-on-local-governments/" >Michael Pagano Interviewed By Univision On COVID-19's Impact On Local Governments</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>April 14, 2020</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>          <article class="tease tease-news" id="tease-1324">
+	
+  
+  <div class="teaser-content">
+    <h3 class="_title"><a id="" href="https://gfrc.uic.edu/news-stories/amanda-kass-interviewed-on-state-week-discussing-economic-impact-of-covid-19/" >Amanda Kass Interviewed On State Week Discussing Economic Impact Of COVID-19</a></h3>
+
+              <div class="post-meta">
+    <div class="post-date-line">
+            <span class="post-date">Posted on <strong>April 10, 2020</strong></span>
+    </div>
+    </div>
+        
+    
+  </div>
+
+</article>    </div>            </div>
+                            <div class="component-highlight-news__button">
+                              <a  href="https://gfrc.uic.edu/news-and-events/" class="button ">
+  More About GFRC in the Media
+</a>
+                          </div>
+            </div>
+
+
+      </div>
+  
+</section>
+
+    
+
+    
+      
+
+<section class="component  ">
+
+      <div class="l-full">
+  
+  
+  
+    <div class="component-description">
+                    <h2 id="we-partner-with-the-following-groups-to-enhance-our-work-at-all-levels-of-government-michael-a-pagano-director" class="__title visible">"We partner with the following groups to enhance our work at all levels of government." -- Michael A. Pagano, Director</h2>
+                    </div>
+
+  <ul class="component-link-tile ">
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="http://www.nlc.org/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/02/National-League-of-Cities-600x397.png"
+                alt="NLC Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            National League of Cities
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="http://www.gfoa.org/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/Government-Finance-Officers-Association-logo-600x397.jpg"
+                alt="Government Finance Officers Association Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Government Finance Officers Association
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="http://www.gasb.org/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/GASB-logo-600x397.jpg"
+                alt="Governmental Accounting Standards Board Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Governmental Accounting Standards Board
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.nasbo.org/home"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/NASBOlogo-600x397.jpg"
+                alt="NASBO logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            National Association of State Budget Officers
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="http://www.taxpolicycenter.org/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/brookingsLogo-600x397.png"
+                alt="Tax Policy Center Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Urban Brookings Tax Policy Center
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://greenebarrett.com/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/BGlogo_600x365-600x365.png"
+                alt="B&amp;G Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Barrett &amp; Green, Inc
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="http://calbudgetcenter.org/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/California-Budget-Policy-Center-600x397.jpg"
+                alt="California Budget and Policy Center logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            California Budget and Policy Center
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.merrittresearch.com/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/MerrittLogo_600x365-600x365.jpg"
+                alt="Merritt Research Services Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Merritt Research Services
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.chicagofed.org/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/federal_reserve_bank_of_chicago-600x397.png"
+                alt="Federal Reserve Bank of Chicago Logoi">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            Chicago Federal Reserve Bank
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+      <li class="component-link-tile__item component-link-tile__item--image">
+
+                  <div class="tile-item ">
+    <a  class="tile-item__link"
+       href="https://www.spglobal.com/"
+       target="_blank">
+            <div class="tile-item__image-container">
+            <img
+                class="tile-item__image"
+                
+                src="https://gfrc.uic.edu/wp-content/uploads/sites/188/2018/03/SP_Global_Logo_700x700-600x397.png"
+                alt="S&amp;P Global  Logo">
+        </div>
+    
+    <div class="
+        tile-item__content-container
+        tile-item__content-container--external
+        tile-item__content-container--image">
+        <div class="
+            tile-item__title
+            tile-item__title--image">
+            S&amp;P Global
+        </div>
+
+        
+            </div>
+    </a>
+</div>
+
+    </li>
+    </ul>
+
+      </div>
+  
+</section>
+
+    
+
+    
+
+</div>
+          </article>
+        </div>
+
+          
+                          </div>
+    </main>
+
+    
+        <footer id="footer" class="footer u-dark-region" role="contentinfo">
+
+  <div class="footer-contact">
+    <div class="l-full">
+
+          <div class="mega-footer-contact">
+
+    <div class="mega-footer-contact__brand mega-footer-contact__brand--type-treatment">
+        <div class="footer-logo">
+                        <div class="uic-type-treatment  uic-wordmark--footer">
+
+  <div class="_mark">
+    <a href="http://uic.edu" class="uic-logo-icon ">
+ <svg aria-label="UIC.edu home" viewBox="0 0 55 55" xmlns="http://www.w3.org/2000/svg">
+ <title>UIC Logo</title>
+ <circle class="_circle" cx="27" cy="27" r="25" fill="none" />
+<path class="_mark" d="M49.73 23.917l-4.583 2.2c-.44-1.71-1.397-2.718-3.056-2.718-2.25 0-3.39 1.862-3.39 4.918 0 3.03 1.14 4.844 3.39 4.844 1.555 0 2.462-.83 2.954-2.203l4.79 1.707c-1.242 2.824-3.754 4.767-7.768 4.767-5.57 0-8.754-3.728-8.754-9.116 0-5.41 3.368-9.114 8.857-9.114 4.194 0 6.68 2.407 7.56 4.713zm-24.264-4.403h5.282v17.61h-5.282v-17.61zm-3.21 10.41c0 2.46-.258 3.65-.96 4.844-1.164 1.94-4.27 2.692-6.99 2.692-2.72 0-5.828-.753-6.993-2.692-.698-1.194-.96-2.384-.96-4.844v-10.41h5.284v10.513c0 1.192.157 1.968.596 2.486.416.492 1.09.726 2.073.726.983 0 1.657-.235 2.07-.727.44-.518.597-1.294.597-2.486V19.514h5.282v10.41zM54.5 27.5c0-14.912-12.09-27-27-27-14.913 0-27 12.088-27 27s12.087 27 27 27c14.91 0 27-12.088 27-27z" fill="#FFF " fill-rule="evenodd"/>
+</svg>
+</a>
+  </div>
+
+  <div class="_text">
+    <a href="https://gfrc.uic.edu">
+          Government Finance Research Center
+        </a>
+  </div>
+
+</div>
+            </div>
+    </div>
+
+  <div class="mega-footer-contact__menus">
+
+        <div class="mega-footer-contact__quick-menus _quick-menus">
+
+            <nav class="mega-footer-contact__quick-menu" id="menu1" aria-label="footer-menu-1">
+        <h2>Resources</h2>
+        <ul id="menu-quick-1" class="menu menu-quick-1" aria-label="Resources">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-236">
+      <a href="http://library.uic.edu/" target="_blank">Richard J. Daley Library</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-237">
+      <a href="http://vcsa.uic.edu/" target="_blank">UIC Office of Student Affairs</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-238">
+      <a href="http://dos.uic.edu/conductforstudents.shtml" target="_blank">Conduct Information for Students</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="mega-footer-contact__quick-menu" id="menu2" aria-label="footer-menu-2">
+        <h2>Tools</h2>
+        <ul id="menu-quick-2" class="menu menu-quick-2" aria-label="Tools">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-239">
+      <a href="https://my.uic.edu/common/" target="_blank">my.UIC</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-240">
+      <a href="http://uic.blackboard.com/" target="_blank">Blackboard</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-241">
+      <a href="http://www.uic.edu/depts/accc/google/" target="_blank">GoogleApps@UIC</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-242">
+      <a href="https://webmail.uic.edu/" target="_blank">Webmail</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-243">
+      <a href="https://nessie.uihr.uillinois.edu/cf/index.cfm" target="_blank">Nessie</a>
+    </li>
+  </ul>
+      </nav>
+      
+            <nav class="mega-footer-contact__quick-menu" id="menu3" aria-label="footer-menu-3">
+        <h2>Quick Links</h2>
+        <ul id="menu-quick-3" class="menu menu-quick-3" aria-label="Quick Links">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-244">
+      <a href="http://www.uic.edu/about/visit-directions" target="_blank">Visit</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-245">
+      <a href="http://catalog.uic.edu/ucat/academic-calendar/" target="_blank">Academic Calendar</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-246">
+      <a href="http://grad.uic.edu/" target="_blank">UIC Graduate College</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-247">
+      <a href="http://www.uic.edu/life-at-uic/faculty-and-staff" target="_blank">Resources for Faculty & Staff</a>
+    </li>
+  </ul>
+      </nav>
+      
+    </div>
+    
+        <div class="mega-footer-contact__button-menus">
+      <nav class="mega-footer-contact__button-menu" id="menu4" aria-label="footer-menu-4">
+        <h2 class="assistive-text">Buttons</h2>
+
+        <ul id="button-menu" class="menu button-menu" aria-label="Buttons">
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-248">
+      <a href="https://admissions.uic.edu/undergraduate" target="_blank">Apply Now</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-249">
+      <a href="https://cuppa.uic.edu/about/contact-us/" target="_blank">Request Information</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-250">
+      <a href="https://cuppa.uic.edu/about/giving/" target="_blank">Support CUPPA</a>
+    </li>
+      <li class="_item  menu-item menu-item-type-custom menu-item-object-custom menu-item-251">
+      <a href="https://cuppa.uic.edu/careers/cuppa-alumni-association/" target="_blank">Join Alumni Association</a>
+    </li>
+  </ul>
+
+      </nav>
+    </div>
+    
+  </div>
+
+  <div class="mega-footer-contact__contact">
+
+    <div class="_contact">
+      <h2>Contact</h2>
+      <div class="site-contact-container">    <div class="site-address">412 S. Peoria, (MC 349), Suite 324B Chicago, IL 60607</div>
+      <div class="site-phone">Phone: <a  href="tel:(312) 996-8587">(312) 996-8587</a></div>
+        <div class="site-email"><a  href="mailto:gfrc@uic.edu">gfrc@uic.edu</a></div>
+</div>
+      <div class="site-contact-container">        </div>
+    </div>
+
+    <div class="mega-footer-contact__site-social-links">
+       <div aria-label="Social Media Accounts" class="site-social-links">
+  <h2 class="site-social-links__header assistive-text">Social Media Accounts</h2>
+  <ul class="site-social-links__list">
+                <li class="site-social-links__list-item"><a  class="site-social-links__link twitter" href="https://twitter.com/govfinanceuic?lang=en">
+      <svg class="site-social-links__link-icon site-social-links__link-icon-with-hover" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" aria-label="Twitter"><title>Twitter</title><path d="M25.4 9.4c-.7.3-1.5.6-2.4.7.9-.5 1.5-1.3 1.8-2.3-.8.5-1.7.8-2.6 1-.8-.8-1.8-1.3-3-1.3-2.3 0-4.1 1.9-4.1 4.1 0 .3 0 .6.1.9-3.4-.2-6.5-1.8-8.5-4.3-.4.6-.6 1.3-.6 2.1 0 1.4.7 2.7 1.8 3.4-.7 0-1.3-.2-1.9-.5v.1c0 2 1.4 3.7 3.3 4.1-.3.1-.7.1-1.1.1-.3 0-.5 0-.8-.1.5 1.6 2.1 2.8 3.9 2.9-1.4 1.1-3.2 1.8-5.1 1.8-.3 0-.7 0-1-.1 1.8 1.2 4 1.9 6.3 1.9 7.6 0 11.8-6.3 11.8-11.8v-.5c.9-.6 1.6-1.3 2.1-2.2z"/></svg>
+    </a></li>
+                  </ul>
+</div>
+    </div>
+  </div>
+</div>
+    
+    </div>
+  </div>
+
+  
+  <div class="footer-uic-menu">
+    <div class="l-full">
+
+      <div aria-label="UIC.edu Links">
+  <h2 class="assistive-text">UIC.edu links</h2>
+  <ul class="uic-footer-menu">
+    <li><strong><a href="https://uic.edu/">UIC.edu</a></strong></li>
+    <li><a href="https://catalog.uic.edu/ucat/academic-calendar/">Academic Calendar</a></li>
+    <li><a href="https://uicflames.com/">Athletics</a></li>
+    <li><a href="https://www.uic.edu/apps/departments-az/search">Campus Directory</a></li>
+    <li><a href="https://disabilityresources.uic.edu/">Disability Resources</a></li>
+    <li><a href="https://emergency.uic.edu/">Emergency Information</a></li>
+    <li><a href="https://today.uic.edu/events">Event Calendar</a></li>
+    <li><a href="https://uic.edu/about/job-opportunities">Job Openings</a></li>
+    <li><a href="https://library.uic.edu/">Library</a></li>
+    <li><a href="https://maps.uic.edu/">Maps</a></li>
+    <li><a href="https://ready.uic.edu/digital-materials/uic-safe-mobile-app/">UIC Safe Mobile App</a></li>
+    <li><a href="https://today.uic.edu/">UIC Today</a></li>
+    <li><a href="https://uihealth.uic.edu/">UI Health</a></li>
+    <li><a href="https://dos.uic.edu/student-veterans-affairs/">Veterans Affairs</a></li>
+  </ul>
+</div>
+
+    </div>
+  </div>
+
+  <div class="footer-legal">
+    <div class="l-full">
+
+      <div class="red-version">Powered by Red 2.38.0</div>
+
+<div class="site-copyright">
+  &copy; 2020 The Board of Trustees of the University of Illinois <span class="pipe-separator">|</span>
+  <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a>
+</div>
+
+<div class="campuses" aria-label="Campuses">
+  <h2 class="assistive-text">Campuses</h2>
+  <ul class="campuses-list">
+    <li><a href="https://www.uillinois.edu/">University of Illinois System</a></li>
+    <li><a href="https://illinois.edu/">Urbana-Champaign</a></li>
+    <li><a href="https://www.uis.edu/">Springfield</a></li>
+  </ul>
+</div>
+<div class="cookie-banner">
+  <div id="footer-bottom">
+    <a class="optanon-show-settings">Cookie Settings</a>
+  </div>
+</div>
+    </div>
+  </div>
+
+</footer>
+
+	    </div>
+
+
+  <!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://gfrc.uic.edu/wp-admin/admin-ajax.php";
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"","font_method":"svg"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://gfrc.uic.edu/wp-content/plugins/instagram-feed/js/sb-instagram.min.js?ver=1.12.1'></script>
+<script type='text/javascript' src='https://gfrc.uic.edu/wp-content/plugins/uic-red/js-admin/uic-publish-post-settings.js?ver=1.0.0'></script>
+<script type='text/javascript' src='https://gfrc.uic.edu/wp-content/plugins/uic-red/js-admin/acf-field-group-toggle.js?ver=1.0.0'></script>
+<script type='text/javascript' src='//www.uic.edu/apps/web-alert/alert.js?ver=3'></script>
+<script type='text/javascript' src='https://gfrc.uic.edu/wp-content/themes/uic-red/js/main.js?ver=1'></script>
+<script type='text/javascript' src='https://gfrc.uic.edu/wp-includes/js/wp-embed.min.js?ver=5d22ad4e79d53a5a8c98a4d20d4dd9b6'></script>
+
+
+
+  
+  
+  <script async src="https://cdn.cookielaw.org/consent/f5cc0259-ebf9-460e-b628-c1d661e5d3b6.js" type="text/javascript" charset="UTF-8"></script>
+
+  </body>
+</html>

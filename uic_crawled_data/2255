@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="UIC Dr. Orly Lazarov Laboratory" />
+<meta name="keywords" content="Alzheimers, Aging, Stem, Cell, Neurodegenerative, Disease, Neuroscience, Neurogenesis, Biology, UIC, Illinois, University, Chicago, Graduate, PhD, Cellular, Systems, Orly, Lazarov, Laboratory" />
+
+<style type="text/css">
+<!--
+a:link {color: #fff; text-decoration: none}
+a:visited {color: #fff; text-decoration: none}
+a:active {color: #fff; text-decoration: none}
+a:hover {color: #fff; text-decoration: underline}
+-->
+
+#footer     {
+	text-align: left;
+	font-size: 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	width: 960px;
+	color: #666633;
+	margin: 0 auto;
+}
+
+#footer a	{ color: #666633; }
+#footer a:visited	{ color: #666633; }
+#footer a:active	{ color: #666633; }
+#footer a:hover	{ color: #fff; }
+
+</style>
+
+<link rel="shortcut icon" href="images/favicon.ico">
+
+<title>Lazarov Lab</title>
+
+</head>
+
+<Body bgcolor="#CCCC99" style="font-family:Arial, Helvetica, sans-serif; color:#fff; margin:10px 0px; padding:0px; text-align:center;">
+
+<div align="center">
+<table width="970" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle"><a href="http://www.uic.edu/uic/" target="_blank"><img src="images/uic_banner2.jpg" style="width: 100%; border: none;" /></a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" align="center" valign="middle" float="left" clear="left">
+    <script language="JavaScript"><!--//store the quotations in arrays
+images = new Array(11);
+images[0] = "<img src='images/lab/image1.jpg' />";
+images[1] = "<img src='images/lab/image2.jpg' />";
+images[2] = "<img src='images/lab/image3.jpg' />";
+images[3] = "<img src='images/lab/image4.jpg' />";
+images[4] = "<img src='images/lab/image5.jpg' />";
+images[5] = "<img src='images/lab/image6.jpg' />";
+images[6] = "<img src='images/lab/image7.jpg' />";
+images[7] = "<img src='images/lab/image8.jpg' />";
+images[8] = "<img src='images/lab/image9.jpg' />";
+images[9] = "<img src='images/lab/image10.jpg' />";
+images[10] = "<img src='images/lab/image11.jpg' />";
+index = Math.floor(Math.random() * images.length);
+document.write(images[index]);
+//done
+// --></script>
+<script language="JavaScript"><!--//store the quotations in arrays
+images = new Array(12);
+images[0] = "<img src='images/science/image1.jpg' />";
+images[1] = "<img src='images/science/image2.jpg' />";
+images[2] = "<img src='images/science/image3.jpg' />";
+images[3] = "<img src='images/science/image4.jpg' />";
+images[4] = "<img src='images/science/image5.jpg' />";
+images[5] = "<img src='images/science/image6.jpg' />";
+images[6] = "<img src='images/science/image7.jpg' />";
+images[7] = "<img src='images/science/image8.jpg' />";
+images[8] = "<img src='images/science/image9.jpg' />";
+images[9] = "<img src='images/science/image10.jpg' />";
+images[10] = "<img src='images/science/image11.jpg' />";
+images[11] = "<img src='images/science/image12.jpg' />";
+index = Math.floor(Math.random() * images.length);
+document.write(images[index]);
+//done
+// --></script>
+<script language="JavaScript"><!--//store the quotations in arrays
+images = new Array(5);
+images[0] = "<img src='images/uic/image1.jpg' />";
+images[1] = "<img src='images/uic/image2.jpg' />";
+images[2] = "<img src='images/uic/image3.jpg' />";
+images[3] = "<img src='images/uic/image4.jpg' />";
+images[4] = "<img src='images/uic/image5.jpg' />";
+index = Math.floor(Math.random() * images.length);
+document.write(images[index]);
+//done
+// --></script>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><img src="images/lazarov_banner.jpg" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" background="images/index_back.jpg">
+    <h1 style="font-size:24px; font-weight:bold; text-align:center; margin:25px 150px 0px 150px;">Molecular mechanisms of brain plasticity, aging and neurodegenerative disease</h1>
+      <br />
+      <p style="font-size:16px; text-align:center; margin:0px 100px 0px 100px;">Our research is aimed at understanding the molecular mechanism(s) underlying
+brain aging and the development of aging-linked decline in brain function.
+In particular, we are interested in understanding the mechanism underlying
+declined neurogenesis and cognition and the development of neuropathologies
+characterized by cognitive decline, such as Alzheimer's disease.</p>
+	  <br />
+      <p style="font-size:16px; margin-bottom:25px;"><a href="research.html"><b>click here to enter</b></a></p>
+    </td>
+  </tr>
+</table>
+<div id="footer"> <!--footer START--> 
+   
+      <div id="footer_text">&#169;2011 Department of Anatomy and Cell Biology, University of Illinois at Chicago
+      <br />
+      808 S. Wood St., Rm 578 MC 512, Chicago IL 60612 &#124; <a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm" target="_blank">Privacy Notice</a> &#124; <a href="mailto:&#119;&#101;&#98;&#109;&#105;&#110;&#64;&#117;&#105;&#99;&#46;&#101;&#100;&#117;">Contact Webmaster</a>
+      <br />
+      Last Update: 08/03/15</div>
+</div>
+</map>
+</body>
+</html>

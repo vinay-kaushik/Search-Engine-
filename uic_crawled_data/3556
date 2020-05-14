@@ -1,0 +1,47 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1"><title>
+	EMS Web App Error
+</title>
+       <style media="screen" type="text/css">
+        /*The Text that is centered about the menu*/
+        h1
+        {
+	        color: #225d92;
+	        float:left;
+	        margin-left:auto;
+	        text-align:center;
+	        width:80%;
+	        display:block;
+        }
+        .float
+        {
+            float:left;   
+        }
+        .row
+        {
+            clear:both;
+            padding-top:.3em;
+        }
+        </style> 
+</head>
+<body>
+    <form method="post" action="./Error.aspx" id="VirtualEmsForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="26lH58mnGjFO0IoWUJM36nwIKBJf+1E0hxnGcJ8C7GVawOwe5rRqmI6IvRz8ZZEXJ4vuNqurAxXQDWjn3J2Kp1bXYP3w5NGauh4Fh9R2VWZUREM7P0geM4lZIUlOz6PHtqVD+A3isvUKqaZnfpGCgTYn/tuqh8NavcwYmt8P7Mgr+E3hzM8srkfKI36gm4aijxOZ0zq0eXxWb4f0cKyYxRZDyij1H2iMYflxfTxz2nF/4pqogLB4VKFxa6weEtGuZ5+oJNXcLX1Bgjg2GKZH6HvnQawqol06vaef+QDm7aE=" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="5A24EFE3" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+       <img id="HeaderImage" class="float" src="Images/Logo.png" alt="Virtual EMS Logo" height="50" />
+       <h1>EMS Web App</h1>
+       <div class="row">
+            <span id="ErrorMessage"></span>
+		</div>
+		<div class="row">
+			<p><strong><span id="DetailsLabel"></span></strong>&nbsp;&nbsp;<span id="ErrorDetails">There was a problem attempting to complete the action you requested. Please try again at a later time.</span></p>
+		</div>
+    </form>
+</body>
+</html>
